@@ -1,0 +1,64 @@
+html {
+    background-color: white;
+    font-family: "Lexend Deca", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+}
+
+/* removing default browser-applied gap*/
+body {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+header ul li {
+    padding: 0 40px 0px 40px;
+    border: 5px solid black;
+    margin: 0px 40px;
+    border-radius: 10px;
+}
+
+header ul li:hover {
+    color: gray;
+    text-decoration:wavy;
+    border: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2 + img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 span {
+    display: block;
+    font-weight: 80;
+    color: gray;
+}
+
+section article {
+    border: 5px solid black;
+}
+
+img {
+    border: 5px solid black;
+}
+
+img:hover {
+    border: 5px solid dimgrey;
+    border-left: 0px;
+    border-top: 0px;
+}
+
+
