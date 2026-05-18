@@ -4,7 +4,7 @@
 This project is a practice exercise to enhance my skills in Bootstrap, JavaScript, HTML, and CSS. The goal is to understand how these components interact while working with real data from a JSON file. The project dynamically loads and displays the first 50 Airbnb listings from a JSON file using JavaScript fetch and async/await, and is styled using Bootstrap 5.
 
 ## Live Demo
-[View Deployment](https://swbehan.github.io/airbnb-listings-practice/)
+[View Deployment](https://swbehan.github.io/airbnb_self_assesment_demo/)
 
 ## Screenshot
 ![Airbnb Listings Screenshot](./images/air-bnb-demo-image.png)
