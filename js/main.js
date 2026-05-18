@@ -75,6 +75,7 @@ function appearPopupModal(evt) {
     clearAllInputFields();
     modal.remove();
     alert("Booking submitted successfully!");
+    document.querySelector(".modal-backdrop").remove();
   });
 }
 
