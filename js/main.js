@@ -74,8 +74,8 @@ function appearPopupModal(evt) {
   buttonSubmit.addEventListener("click", () => {
     clearAllInputFields();
     modal.remove();
-    alert("Booking submitted successfully!");
     document.querySelector(".modal-backdrop").remove();
+    alert("Booking submitted successfully!");
   });
 }
 
